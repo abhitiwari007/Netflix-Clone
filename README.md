@@ -31,51 +31,25 @@ cd django-netflix-clone-main
 
 ```
 pip install -r requirements.txt
-
-
-
 ```
 4. Apply database migrations:
 
 ```
 python manage.py migrate
-
-
-
-
 ```
 5. Create a superuser (admin):
 
 ```
 python manage.py createsuperuser
-
-
-
-
-
 ```
 Follow the prompts to create your admin account.
-6. tart the development server:
+6. Start the development server:
 
 ```
 python manage.py runserver
-
-
-
-
-
-
 ```
 7. Open your web browser and go to http://127.0.0.1:8000/ to see the application running.
 
-
-
-
-
-
-
-
-    
 ## Usage
 
 - Admin interface: Access the Django admin interface at http://127.0.0.1:8000/admin/ and log in with the superuser credentials created earlier. Here you can manage users, movies, TV shows, and other content.
