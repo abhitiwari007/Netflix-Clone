@@ -8,8 +8,12 @@ This project is a clone of Netflix built using Django framework. It aims to repl
 - User profile management
 - Responsive UI similar to Netflix
 
-# Installation
+## Installation
+
 1. Clone the repository:
-   '''
-   git clone https://github.com/abhitiwari007/django-netflix-clone-main.git
-   ,,,
+
+```
+git clone https://github.com/abhitiwari007/django-netflix-clone-main.git
+
+```
+    
