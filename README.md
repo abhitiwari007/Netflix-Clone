@@ -26,8 +26,6 @@ git clone https://github.com/abhitiwari007/django-netflix-clone-main.git
 
 ```
 cd django-netflix-clone-main
-
-
 ```
 3. Install dependencies:
 
